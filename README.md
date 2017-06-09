@@ -1,2 +1,8 @@
-# murat-y-ld-r-m
-first project
+GOLDEN EYE DDos script python 
+
+Sadece güvenlik eğitimi için kullanın sorumluluk kabul etmem
+
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
+
+
+
